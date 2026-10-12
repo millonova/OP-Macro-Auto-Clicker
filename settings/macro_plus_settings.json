@@ -1,0 +1,22 @@
+{
+  "record_hotkey": "Ctrl+1",
+  "play_hotkey": "Ctrl+2",
+  "clicker_hotkey": "Ctrl+3",
+  "panic_hotkey": "F12",
+  "force_exit_hotkey": "F11",
+  "record_moves": true,
+  "move_distance": "4",
+  "move_interval": "10",
+  "repeat_mode": "timer",
+  "repeat_count": "1",
+  "repeat_duration": "60000",
+  "playback_speed": "1.0",
+  "click_interval": "4",
+  "click_jitter": "0",
+  "click_limit": "0",
+  "click_button": "left",
+  "click_location": "cursor",
+  "fixed_x": "0",
+  "fixed_y": "0",
+  "always_on_top": true
+}
