@@ -1,10 +1,11 @@
-# Macro Plus
+# OP Macro & Auto Clicker
+
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-informational.svg)](https://www.microsoft.com/windows)
 [![UI Framework](https://img.shields.io/badge/UI-PyQt6%20Fluent%20Design-blueviolet.svg)](https://riverbankcomputing.com/software/pyqt/)
 
-**Macro Plus** is a modern, high-precision desktop macro recorder, playback engine, and customizable auto-clicker built for Windows 10 and 11. Designed with Windows 11 Fluent Design principles, it offers sub-millisecond accuracy, portable JSON recording formats, and a clean user experience.
+**OP Macro & Auto Clicker** is a modern, high-precision desktop macro recorder, playback engine, and customizable auto-clicker built for Windows 10 and 11. Designed with Windows 11 Fluent Design principles, it offers sub-millisecond accuracy, portable JSON recording formats, and a clean user experience.
 
 ---
 
@@ -41,8 +42,8 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/millonova/Macro_Plus.git
-   cd Macro_Plus
+   git clone https://github.com/millonova/OP-Macro-Auto-Clicker.git
+   cd OP-Macro-Auto-Clicker
    ```
 
 2. **Set up a virtual environment (optional but recommended)**:
@@ -56,7 +57,7 @@
    pip install -r requirements.txt
    ```
 
-4. **Run Macro Plus**:
+4. **Run OP Macro & Auto Clicker**:
    ```powershell
    python macro_plus.py
    ```
@@ -66,7 +67,7 @@
 ## Usage Guide
 
 ### 1. Recording a Macro
-1. Open Macro Plus and navigate to the **Recorder** tab.
+1. Open OP Macro & Auto Clicker and navigate to the **Recorder** tab.
 2. Select whether to include mouse movements, mouse clicks, or keyboard strokes.
 3. Click **Start Recording** (or press the global recording hotkey `F9`).
 4. Perform your desired actions.
@@ -90,7 +91,7 @@
 ## Project Structure
 
 ```
-Macro_Plus/
+OP-Macro-Auto-Clicker/
 ├── macro_plus.py         # Application entry point
 ├── macro_engine.py       # Core recording, playback, and clicking engine
 ├── requirements.txt      # Python dependencies
@@ -116,4 +117,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## ⚠️ Disclaimer
 
-Macro Plus is intended for productivity automation, accessibility testing, and repetitive desktop workflows. Please follow the rules and terms of service of any software or games where you use automated input tools.
+OP Macro & Auto Clicker is intended for productivity automation, accessibility testing, and repetitive desktop workflows. Please follow the rules and terms of service of any software or games where you use automated input tools.

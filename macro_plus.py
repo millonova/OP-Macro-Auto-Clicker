@@ -1,4 +1,4 @@
-"""Macro Plus - Windows 11 Fluent Macro Recorder, Precision Player & Auto Clicker.
+"""OP Macro & Auto Clicker - Windows 11 Fluent Macro Recorder, Precision Player & Auto Clicker.
 
 Run with ``python macro_plus.py``. Recordings are portable JSON documents saved
 in the ``recordings`` directory.
@@ -22,8 +22,8 @@ from ui.app_window import MacroPlusWindow
 
 def main() -> None:
     app = QApplication(sys.argv)
-    app.setApplicationName("Macro Plus")
-    app.setOrganizationName("Macro Plus Precision Suite")
+    app.setApplicationName("OP Macro & Auto Clicker")
+    app.setOrganizationName("OP Macro Suite")
 
     engine = MacroEngine()
     window = MacroPlusWindow(engine)

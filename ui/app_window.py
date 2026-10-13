@@ -26,7 +26,7 @@ class MacroPlusWindow(FluentWindow):
         super().__init__(parent)
         self.engine = engine
 
-        self.setWindowTitle("Macro Plus - Windows 11 Precision Suite")
+        self.setWindowTitle("OP Macro & Auto Clicker - Windows 11 Precision Suite")
         self.resize(1080, 740)
         self.setMinimumSize(840, 560)
 
