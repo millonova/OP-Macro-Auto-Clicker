@@ -1,5 +1,4 @@
-# Macro Plus - Fluent Macro Suite
-
+# Macro Plus
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-informational.svg)](https://www.microsoft.com/windows)
@@ -9,33 +8,26 @@
 
 ---
 
-## ✨ Features
+## Features
 
-### 🎙️ Precision Macro Recorder
+### Precision Macro Recorder
 * **Full Input Capture**: Records keyboard presses, releases, mouse coordinates, clicks, and scroll wheel ticks.
-* **Sub-Millisecond Timing**: Employs Windows multimedia timer resolution (`timeBeginPeriod(1)`) to eliminate scheduling stutter and ensure exact replay fidelity.
-* **Non-Destructive Recordings**: Recordings are stored as clean, human-readable, portable JSON documents in the `recordings/` folder.
 
-### ⏯️ Precision Player
+### Precision Player
 * **Speed Scaling**: Seamlessly speed up or slow down execution from `0.1x` to `10.0x`.
 * **Repeat & Loop Control**: Execute once, repeat *N* times, or loop continuously until stopped.
 * **Humanized Jitter**: Optional randomized micro-delays between actions to mimic natural human interactions.
 * **Coordinate Smoothing**: Replays mouse path curves smoothly across displays.
 
-### 🖱️ Integrated High-Speed Auto Clicker
+### Integrated High-Speed Auto Clicker
 * **Custom Click Rates**: Set custom clicks-per-second (CPS) or millisecond intervals.
 * **Multi-Button Support**: Left, Right, or Middle mouse button automation.
 * **Click Modes**: Single-click, double-click, and hold-down modes.
 * **Dynamic Target Position**: Click at current cursor location or lock onto fixed screen coordinates.
 
-### 🎨 Windows 11 Fluent UI
-* Sleek dark-mode aesthetic with custom animations and responsive layout.
-* Floating Mini-Widget mode for minimal on-screen footprint during active tasks.
-* Visual event inspector allowing you to inspect, edit, or trim individual recorded events.
-
 ---
 
-## 📋 Requirements
+## Requirements
 
 * **OS**: Windows 10 / Windows 11 (64-bit)
 * **Python**: Python 3.10+
@@ -45,7 +37,7 @@
 
 ---
 
-## 🚀 Installation & Quick Start
+## Installation & Quick Start
 
 1. **Clone the repository**:
    ```bash
@@ -71,7 +63,7 @@
 
 ---
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### 1. Recording a Macro
 1. Open Macro Plus and navigate to the **Recorder** tab.
@@ -95,7 +87,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Macro_Plus/
@@ -116,7 +108,7 @@ Macro_Plus/
 
 ---
 
-## 🛡️ License
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details. Free for personal, commercial, and open-source use.
 
