@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-informational.svg)](https://www.microsoft.com/windows)
 [![UI Framework](https://img.shields.io/badge/UI-PyQt6%20Fluent%20Design-blueviolet.svg)](https://riverbankcomputing.com/software/pyqt/)
 
-**OP Macro & Auto Clicker** is a modern, high-precision desktop macro recorder, playback engine, and customizable auto-clicker built for Windows 10 and 11. Designed with Windows 11 Fluent Design principles, it offers sub-millisecond accuracy, portable JSON recording formats, and a clean user experience.
+**OP Macro & Auto Clicker** is a modern, high-precision desktop macro recorder, playback engine, and customizable auto-clicker built for Windows 10 and 11. It offers sub-millisecond accuracy, portable JSON recording formats, and a clean user experience.
 
 ---
 
